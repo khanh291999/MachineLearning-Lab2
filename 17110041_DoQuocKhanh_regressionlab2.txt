@@ -1,0 +1,40 @@
+1/Insurance Company Benchmark
+2/Boston House Price Dataset(https://colab.research.google.com/drive/1010LlvRoLRMTd1vfob9rech_JF5NawWv?usp=sharing)
+*Ridge
+	Mean squared Error on test set :  29.418142711098987
+	RMSE of Ridge Regression 5.423849436617777
+	Residual sum of squares:  3736.1041243095706
+*Lasso
+	Mean squared error on test set 33.1260002119312
+	RMSE of Lasso Regression 5.7555191088147035
+	Residual sum of squares:  4207.002026915262
+*Elastic Net
+	Mean Squared Error on test set 33.05409126037728
+	RMSE of Elastic Regression 5.749268758753348
+	Residual sum of squares:  4197.869590067912
+3/Wine Quality(https://colab.research.google.com/drive/1fro4ZMv37g8eABT9efDZJ14bHMUsBhIp?usp=sharing)
+*Ridge
+	Mean squared Error on test set :  0.06256367237803945
+	RMSE of Ridge Regression 0.2501273123392155
+	Residual sum of squares:  2.815365257011775
+*Lasso
+	Mean squared error on test set 0.36293478724186234
+	RMSE of Lasso Regression 0.6024406918874773
+	Residual sum of squares:  16.332065425883805
+*Elastic Net
+	Mean Squared Error on test set 0.28651777567830544
+	RMSE of Elastic Regression 0.5352735521939277
+	Residual sum of squares:  12.893299905523744
+4/Breast Cancer Wisconsin()
+*Ridge
+	Mean squared Error on test set :  0.0678840352604542
+	RMSE of Ridge Regression 0.26054564909139083
+	Residual sum of squares:  9.707417042244948
+*Lasso
+	Mean squared error on test set 0.12377112024067531
+	RMSE of Lasso Regression 0.351811199708985
+	Residual sum of squares:  17.69927019441657
+*Elastic Net
+	Mean Squared Error on test set 0.09636682842412597
+	RMSE of Elastic Regression 0.31043007010295565
+	Residual sum of squares:  13.78045646465001
